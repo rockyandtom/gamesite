@@ -60,4 +60,4 @@ Extracted from a personal WorkBuddy skill library and cleaned for public release
 
 A short account of how this deployment method was assembled is at [WorkBuddy Central: Game Site Development](https://workbuddycentral.com/game-site-development/). The methodology itself lives in `SKILL.md`; the site is a plain-language profile for readers deciding whether the method fits their project.
 
-WorkBuddy Central is an independent third-party documentation site with no affiliation to WorkBuddy or Tencent.
+WorkBuddy Central is an independent third-party documentation site; it is not affiliated with WorkBuddy or Tencent.
