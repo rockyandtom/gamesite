@@ -55,3 +55,9 @@ There are no runnable scripts in this package. It is prose guidance; the command
 ## Origin
 
 Extracted from a personal WorkBuddy skill library and cleaned for public release: machine-specific absolute paths were replaced with portable ones, backup and build artifacts were excluded, and no credentials are included.
+
+## Companion site
+
+A short account of how this deployment method was assembled is at [WorkBuddy Central: Game Site Development](https://workbuddycentral.com/game-site-development/). The methodology itself lives in `SKILL.md`; the site is a plain-language profile for readers deciding whether the method fits their project.
+
+WorkBuddy Central is an independent third-party documentation site with no affiliation to WorkBuddy or Tencent.
